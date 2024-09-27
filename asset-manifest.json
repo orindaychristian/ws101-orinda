@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/orindaychristian.github.io/ws101-orinday-navbar/static/css/main.8422d284.css",
+    "main.js": "/orindaychristian.github.io/ws101-orinday-navbar/static/js/main.b83e7397.js",
+    "index.html": "/orindaychristian.github.io/ws101-orinday-navbar/index.html",
+    "main.8422d284.css.map": "/orindaychristian.github.io/ws101-orinday-navbar/static/css/main.8422d284.css.map",
+    "main.b83e7397.js.map": "/orindaychristian.github.io/ws101-orinday-navbar/static/js/main.b83e7397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8422d284.css",
+    "static/js/main.b83e7397.js"
+  ]
+}
